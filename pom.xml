@@ -21,8 +21,7 @@
     <modules>
         <module>mcsv-product</module>
         <module>mcsv-booking</module>
-        <module>mcsv-configServer</module>
-        <module>mcsv-eurekaDiscoveryServer</module>
+        <module>mcsv-eureka-server</module>
     </modules>
 
     <properties>
