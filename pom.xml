@@ -20,7 +20,7 @@
 
     <modules>
         <module>mcsv-product</module>
-        <module>mvsc-booking</module>
+        <module>mcsv-booking</module>
         <module>mcsv-configServer</module>
         <module>mcsv-eurekaDiscoveryServer</module>
     </modules>
